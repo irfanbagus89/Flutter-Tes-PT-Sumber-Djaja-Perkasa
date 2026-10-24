@@ -2,8 +2,6 @@
 
 Aplikasi mobile manajemen inventaris yang dibangun dengan **Flutter** sebagai studi kasus technical test. Aplikasi terhubung ke REST API (NestJS + MySQL) untuk mengelola master data dan transaksi pembelian barang.
 
-> Backend API berada di repository/folder terpisah (`backend_testdjaja`) — lihat README backend untuk petunjuk menjalankan API.
-
 ## Fitur
 
 - **Supplier** — CRUD supplier, filter status (aktif/nonaktif), pencarian, statistik jumlah PO & total belanja per supplier
